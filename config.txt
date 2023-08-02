@@ -10,7 +10,7 @@
 		"showBanner":"true",
 		"BannerPictureUrl":"https://",
 		"BannerActionType":"",
-		"BannerActionData":""
+		"BannerActionData":"",
 		
 	}
 }
