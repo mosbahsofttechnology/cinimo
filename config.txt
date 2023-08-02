@@ -1,16 +1,15 @@
-{"config":
-	{
-		"url":"https://cinimo.ir",
-		"telegram":"https://t.me/cinimo",
-		"instgram":"https://instgram/cinimo",
-		"iranDonateGetWay":"https://idpay.ir",
-		"irPicGetway":"https://static.idpay.ir/icons/v2/icon-180.png",
-		"dollorDonateGetWay":"paypal.me/shojapay",
-		"dollorPicGateway":"https://s.cafebazaar.ir/images/icons/com.paypal.android.p2pmobile-ecc32cf7-9369-4180-bda1-7f576641a511_512x512.webp",
-		"showBanner":"true",
-		"BannerPictureUrl":"https://",
-		"BannerActionType":"",
-		"BannerActionData":"",
-		
-	}
+{
+    "config": {
+        "baseUrl": "https://cinimo.ir",
+        "telegram": "https://t.me/cinimo",
+        "instgram": "https://instgram/cinimo",
+        "iranDonateGetWay": "https://idpay.ir",
+        "irPicGetway": "https://static.idpay.ir/icons/v2/icon-180.png",
+        "dollorDonateGetWay": "paypal.me/shojapay",
+        "dollorPicGateway": "https://s.cafebazaar.ir/images/icons/com.paypal.android.p2pmobile-ecc32cf7-9369-4180-bda1-7f576641a511_512x512.webp",
+        "showBanner": "true",
+        "BannerPictureUrl": "https://",
+        "BannerActionType": "",
+        "BannerActionData": ""
+    }
 }
