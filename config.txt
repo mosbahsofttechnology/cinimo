@@ -7,7 +7,7 @@
         "irPicGetway": "https://static.idpay.ir/icons/v2/icon-180.png",
         "dollorDonateGetWay": "https://www.paypal.com/paypalme/shojapay",
         "dollorPicGateway": "https://s.cafebazaar.ir/images/icons/com.paypal.android.p2pmobile-ecc32cf7-9369-4180-bda1-7f576641a511_512x512.webp",
-        "showBanner": "true",
+        "showBanner": "false",
         "BannerPictureUrl": "https://www.soorban.com/images/news/2022/03/1647069562_B3sW0.jpg",
         "BannerActionType": "link",
         "BannerActionData": "https://google.com"
