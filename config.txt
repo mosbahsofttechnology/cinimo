@@ -8,7 +8,7 @@
 		"dollorDonateGetWay":"paypal.me/shojapay",
 		"dollorPicGateway":"https://s.cafebazaar.ir/images/icons/com.paypal.android.p2pmobile-ecc32cf7-9369-4180-bda1-7f576641a511_512x512.webp",
 		"showBanner":"true",
-		"BannerPictureUrl":"https://"
+		"BannerPictureUrl":"https://",
 		"BannerActionType":"",
 		"BannerActionData":""
 		
