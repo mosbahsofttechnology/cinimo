@@ -1,6 +1,7 @@
 {
     "config": {
-        "baseUrl": "https://cinimo.ir",
+        "baseUrl": "https://api.cinimo.ir",
+        "fileUrl":"https://files.cinimo.ir",
         "telegram": "https://t.me/cinimo",
         "instgram": "https://instgram/cinimo",
         "iranDonateGetWay": "https://idpay.ir",
