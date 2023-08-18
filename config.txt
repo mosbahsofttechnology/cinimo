@@ -2,8 +2,8 @@
     "config": {
         "baseUrl": "https://api.cinimo.ir",
         "fileUrl":"https://files.cinimo.ir",
-        "telegram": "https://t.me/cinimo",
-        "instgram": "https://instgram/cinimo",
+        "telegram": "https://t.me/cinimomovies",
+        "instgram": "https://instgram.com/cinimovid",
         "iranDonateGetWay": "https://idpay.ir/cinimo",
         "irPicGetway": "https://static.idpay.ir/icons/v2/icon-180.png",
         "dollorDonateGetWay": "https://www.paypal.com/paypalme/shojapay",
