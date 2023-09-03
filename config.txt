@@ -13,6 +13,6 @@
         "BannerActionType": "link",
         "BannerActionData": "https://google.com",
         "viewShow":false,
-"enableSubtitle": true
+"enableSubtitle": false
     }
 }
