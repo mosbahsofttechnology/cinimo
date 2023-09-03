@@ -12,6 +12,7 @@
         "BannerPictureUrl": "https://www.soorban.com/images/news/2022/03/1647069562_B3sW0.jpg",
         "BannerActionType": "link",
         "BannerActionData": "https://google.com",
-        "viewShow":false
+        "viewShow":false,
+"enableSubtitle": false
     }
 }
