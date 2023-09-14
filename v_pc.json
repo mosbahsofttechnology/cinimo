@@ -1,4 +1,5 @@
 {
-  "base_url": "https://local.cloudspeed.shop/lhs-global-main/",
-  "":""
+  "config": {
+    "baseUrl": "https://local.cloudspeed.shop/lhs-global-main/"
+  }
 }
