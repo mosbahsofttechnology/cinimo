@@ -15,7 +15,7 @@
         "viewShow":false,
         "enableSubtitle": true,
         "enable_ad": true,
-        "download_premium": true,
+        "download_premium": true
         
         
         
