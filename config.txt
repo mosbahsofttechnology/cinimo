@@ -16,7 +16,8 @@
         "enableSubtitle": true,
         "enable_ad": true,
         "download_premium": true,
-"download_free_maximum": 10
+"download_free_maximum": 10,
+"news_url": "https://google.com"
         
         
         
