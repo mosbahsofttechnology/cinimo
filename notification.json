@@ -24,11 +24,11 @@
       "action_content": "https://google.com"
     },
     {
-      "id": 1,
-      "title": "title-1",
-      "desc": "desc-1",
-      "action": "web",
-      "action_content": "https://google.com"
+      "id": 2,
+      "title": "title-2",
+      "desc": "desc-2",
+      "action": "video",
+      "action_content": "fdgffhfhg"
     }
   ]
 }
