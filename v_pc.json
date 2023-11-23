@@ -1,5 +1,6 @@
 {
   "config": {
-    "baseUrl": "https://api.arianavpn.online/lhs-global-main/"
+    "baseUrl": "https://api.arianavpn.online/lhs-global-main/",
+    "last_version": 22
   }
 }
