@@ -18,7 +18,7 @@
         "download_premium": true,
 "download_free_maximum": 10,
 "news_url": "https://google.com",
-"free_to_users_paid_videos" : true
+"free_to_users_paid_videos" : false
         
         
         
