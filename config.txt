@@ -1,6 +1,6 @@
 {
     "config": {
-        "baseUrl": "https://api.cinimo.ir",
+        "baseUrl": "http://cinimo.bioshick.ir",
         "fileUrl":"https://files.cinimo.ir",
         "telegram": "https://t.me/cinimo_offcial",
         "instgram": "https://www.instagram.com/moviechi.reels",
