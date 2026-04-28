@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "app": "moviechi",
-  "version": "2.4.0",
-  "generated_at": "2026-04-28T06:30:57.901Z",
+  "version": "2.4.1",
+  "generated_at": "2026-04-28T06:40:04.224Z",
   "ttl_seconds": 1800,
   "force_update": false,
   "primary_domain": "api.cinimo.ir",
