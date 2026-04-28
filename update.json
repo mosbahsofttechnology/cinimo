@@ -2,7 +2,7 @@
   "schema_version": 1,
   "app": "moviechi",
   "version": "2.4.0",
-  "generated_at": "2026-04-28T06:19:44.565Z",
+  "generated_at": "2026-04-28T06:25:32.638Z",
   "ttl_seconds": 1800,
   "force_update": false,
   "primary_domain": "api.moviechi.ir",
@@ -10,12 +10,14 @@
   "fallback_domains": [
     "app2.moviechi.net",
     "cdn.moviechi.xyz",
-    "moviechi-backup.app"
+    "moviechi-backup.app",
+    "google.com"
   ],
   "fallback_api_base_urls": [
     "https://app2.moviechi.net/api",
     "https://cdn.moviechi.xyz/api",
-    "https://moviechi-backup.app/api"
+    "https://moviechi-backup.app/api",
+    "https://google.com/api"
   ],
   "config_url": "https://raw.githubusercontent.com/mosbahsofttechnology/cinimo/main/update.json",
   "strategy": {
